@@ -1,1 +1,1 @@
-# multi-select-input-functionality
+install dependencies: npm install
